@@ -2,16 +2,19 @@
         "title:": "มาเขียนโปรแกรมกัน!",
         "subtitle": "บทความนี้จะแนะนำการเริ่มต้นเขียนโปรแกรม",
         "image_url": "https://github.com/koodgeeSoft/BasicAPI/blob/main/dragon.jpg"
+        "detail":" test detail 1"
     },
     {
         "title :": "คอมพิวเตอร์คืออะไร 1",
         "subtitile": "Tools สำหรั บออกแบบ UI ของ Google 1 ",
         "image_url": "https://github.com/koodgeeSoft/BasicAPI/blob/main/work01.jpg"
+        "detail":" Test Detail 2"    
     },
     {
         "title :": "คอมพิวเตอร์คืออะไร 2",
         "subtitile": "Tools สำหรั บออกแบบ UI ของ Google2 ",
         "image_url": "https://github.com/koodgeeSoft/BasicAPI/blob/main/work02.jpg"
+        "detail":"Test Detail 3"
     }
     
 ]
