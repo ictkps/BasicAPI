@@ -8,8 +8,18 @@
         "subtitle": "บทความนี้จะแนะนำการเริ่มต้นเขียนโปรแกรม",
         "image_url": "https: //cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_960_720.jpg"
     }, {
-        "title :": "คอมพิวเตอร์คืออะไร",
-        "subtitile": "Tools สำหรั บออกแบบ UI ของ Google ",
+        "title :": "คอมพิวเตอร์คืออะไร 1",
+        "subtitile": "Tools สำหรั บออกแบบ UI ของ Google 1 ",
+        "image_url": "https: //cdn.pixabay.com/photo/2014/03/22/22/17/phone-292994_960_720.jpg"
+    },
+    {
+        "title :": "คอมพิวเตอร์คืออะไร 2",
+        "subtitile": "Tools สำหรั บออกแบบ UI ของ Google2 ",
+        "image_url": "https: //cdn.pixabay.com/photo/2014/03/22/22/17/phone-292994_960_720.jpg"
+    },
+    {
+        "title :": "คอมพิวเตอร์คืออะไร 3",
+        "subtitile": "Tools สำหรั บออกแบบ UI ของ Google 3 ",
         "image_url": "https: //cdn.pixabay.com/photo/2014/03/22/22/17/phone-292994_960_720.jpg"
     }
 ]
